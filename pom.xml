@@ -42,7 +42,7 @@
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>cicd</applicationName> 
+          <applicationName>app-cicd</applicationName> 
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
